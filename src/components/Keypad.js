@@ -5,6 +5,7 @@ export default class Keypad extends React.Component {
     return(
       <div>
         <input type="password" />
+      </div>
     )
   }
 }
