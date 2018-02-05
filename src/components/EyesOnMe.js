@@ -3,7 +3,7 @@ import React from 'react';
 export default class EyesOnMe extends React.Component {
 
   handleFocus(){
-    console.log('Entering password...');
+    console.log('Good!');
   }
   render(){
     return(
