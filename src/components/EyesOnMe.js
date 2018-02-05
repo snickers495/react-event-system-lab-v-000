@@ -8,7 +8,7 @@ export default class EyesOnMe extends React.Component {
   render(){
     return(
       <div>
-        <button onFocus={} on> </button>
+        <button onFocus={} onBlur={}> </button>
       </div>
     )
   }
