@@ -1,6 +1,6 @@
 // Code EyesOnMe Component Here
 import React from 'react';
-export default class Keypad extends React.Component {
+export default class EyesOnMe extends React.Component {
 
   handleKey(){
     console.log('Entering password...');
