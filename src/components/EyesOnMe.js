@@ -8,7 +8,7 @@ export default class EyesOnMe extends React.Component {
   render(){
     return(
       <div>
-        <input onKeyUp={this.handleKey} type="password" />
+        <
       </div>
     )
   }
