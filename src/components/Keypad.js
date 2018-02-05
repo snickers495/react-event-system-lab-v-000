@@ -4,7 +4,7 @@ export default class Keypad extends React.Component {
   render(){
     return(
       <div>
-        <input onChange=type="password" />
+        <input onKey={} type="password" />
       </div>
     )
   }
