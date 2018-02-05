@@ -5,6 +5,7 @@ export default class EyesOnMe extends React.Component {
   handleFocus(){
     console.log('Good!');
   }
+  handleBlur()
   render(){
     return(
       <div>
