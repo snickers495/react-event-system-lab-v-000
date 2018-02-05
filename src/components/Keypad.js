@@ -3,7 +3,7 @@ import React from 'react';
 export default class Keypad extends React.Component {
 
   handleKey(){
-    'Entering password...'
+    
   }
   render(){
     return(
